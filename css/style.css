@@ -1,0 +1,19 @@
+/*GENERAL & UNIVERSAL */
+
+body {
+    box-sizing: border-box;
+}
+
+/*HEADER*/
+
+nav {
+    text-align: center;
+    
+    
+}
+
+nav li {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 24px;
+}
