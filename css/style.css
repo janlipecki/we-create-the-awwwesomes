@@ -6,10 +6,12 @@ body {
 
 /*HEADER*/
 
+header {
+    height: 445px;
+}
+
 nav {
     text-align: center;
-    
-    
 }
 
 nav li {
@@ -17,3 +19,14 @@ nav li {
     text-transform: uppercase;
     font-size: 24px;
 }
+
+nav a:link {
+    text-decoration: none;
+    color: rgba(86,40,130,1);
+}
+
+/*PROJECTS*/
+/*TEAM*/
+/*OUR CRAZY IDEAS*/
+/*MISSION*/
+/*CONTACT*/
