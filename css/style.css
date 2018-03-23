@@ -8,10 +8,15 @@ body {
 
 header {
     height: 445px;
+    background: linear-gradient(to top right, rgba(255,107,133,1), rgba(146,37,240,1));
 }
 
 nav {
     text-align: center;
+}
+
+nav ul {
+    margin: 0;
 }
 
 nav li {
